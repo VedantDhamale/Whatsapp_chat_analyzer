@@ -1,0 +1,10 @@
+Some Libraries need to intsall:
+pandas 
+re
+worldcloud
+urlextract 
+Streamlit
+emoji
+vedar sentiment 
+matplolib
+seaborn
