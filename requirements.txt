@@ -11,3 +11,4 @@ TextBlob
 helper
 preprocessor
 plotly
+emojis
