@@ -7,3 +7,4 @@ emoji
 vaderSentiment
 matplotlib
 seaborn
+TextBlob
