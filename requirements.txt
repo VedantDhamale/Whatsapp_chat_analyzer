@@ -8,3 +8,6 @@ vaderSentiment
 matplotlib
 seaborn
 TextBlob
+helper
+preprocessor
+plotly
