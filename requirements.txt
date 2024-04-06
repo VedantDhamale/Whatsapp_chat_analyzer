@@ -1,9 +1,9 @@
 pandas 
-re
-worldcloud
+regex
+wordcloud
 urlextract 
-Streamlit
+streamlit
 emoji
 vaderSentiment
-matplolib
+matplotlib
 seaborn
