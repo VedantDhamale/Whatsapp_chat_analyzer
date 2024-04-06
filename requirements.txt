@@ -4,6 +4,6 @@ worldcloud
 urlextract 
 Streamlit
 emoji
-vedar sentiment 
+vaderSentiment
 matplolib
 seaborn
